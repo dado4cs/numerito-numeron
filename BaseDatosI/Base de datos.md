@@ -1,0 +1,1 @@
+Conjunto de datos estructurados y que permite acceso rápido a sus datos.
