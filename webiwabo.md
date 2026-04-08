@@ -1,5 +1,6 @@
-bueno, la verdad no tengo mucho que decir más que empieces por el mejor tema de todos, obviamente hablo de [[Graph]]
-Abajo dejo un mensaje random que tenia esta cosa al crear,
+sepuedelinkearnotas
+[[Graph]]
+sepuededejarunmensajepredeterminado
 
 This is your new *vault*.
 
@@ -7,7 +8,7 @@ try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
 When you're ready, delete this note and make the vault your own.
 
-no importa mucho, mejor mira esta resolución increíble
+sepuedeescribirlatex
 $$
 \begin{align*}
 P &= NP \\
@@ -16,8 +17,7 @@ P &= NP \\
 \end{align*}
 $$
 
-jaja que buen chiste tan original
-ahora un poco explicando como se escribe codigo
+sepuedeescribircodigo
 ```python
 def esPar(n):
 	if n == 1:
@@ -32,4 +32,3 @@ def esPar(n):
 		return "No se puede saber"
 ```
 
-se ve bien no? y puedes poner que lenguaje es

@@ -1,4 +1,3 @@
-
 # Definition
 A statement or proposition that is regarded as being established, accepted, or self-evidently true. It serves as the starting point for further reasoning and arguments.
 # Characteristics

@@ -1,3 +1,5 @@
+Computer systems are typically designed using multiple levels of abstraction. Each level hides the details of the level below it, allowing designers to manage complexity.
+
 ```mermaid
 graph TD
     Software[Application Software] --> OS[Operating Systems]
