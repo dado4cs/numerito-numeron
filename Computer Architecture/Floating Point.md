@@ -1,6 +1,11 @@
-# IEEE 754 Floating Point Standard
-A representation for non-integral numbers, including extremely small or large values, similar to scientific notation.
-## General Format
+## IEEE 754 Floating Point Standard
+A representation for non-integral numbers, including extremely small or large values, similar to scientific notation, using [[Binary system|binary]] numbers.
+### General Format
+
+| Sign | Exponent   | Fraction               |
+| ---- | ---------- | ---------------------- |
+| 0/1  | 01101...01 | 001010101000...0101000 |
+
 $$x=(−1)^S×(1+Fraction)×2^{(Exponent−Bias)}$$
 where
 - **S (Sign bit):** 0 $⇒$ non-negative, 1 $⇒$ negative.
